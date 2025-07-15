@@ -15,7 +15,7 @@
 
 ###### Caution: You must have the .env file to run this project
 
-##Json file of Collection and environment
+## JSON file of Collection and environment
 https://drive.google.com/file/d/1aEyJPVHRECrDwN4ELN5cNGNZxpsvdVAe/view?usp=sharing
 
 ## Test case File
