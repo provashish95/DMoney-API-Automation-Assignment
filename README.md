@@ -27,6 +27,8 @@ https://documenter.getpostman.com/view/10144528/2sB34hGgGX
 ## Report
 <img width="869" height="872" alt="image" src="https://github.com/user-attachments/assets/23e6c636-21a8-4f8c-9e32-9e87c148d5b9" />
 
+<img width="887" height="601" alt="image" src="https://github.com/user-attachments/assets/b392a250-7c9a-403a-9b35-fdb1f86f02ae" />
+
 
 
 
